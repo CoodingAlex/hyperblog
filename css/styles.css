@@ -6,10 +6,18 @@ body {
   width: 70%;
   margin: 0 auto;
   text-align: left;
-  padding: 1em;
   border: 1px solid #ddd;
 }
 
 .container h1 {
   font-size: 20px;
+}
+.post {
+  padding: 1em;
+}
+.cabecera {
+  background-color: #33a;
+  color: white;
+  font-weight: bold;
+  margin: 0;
 }
